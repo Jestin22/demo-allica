@@ -5,7 +5,6 @@ import com.example.demoallica.model.Customer;
 import com.example.demoallica.response.CustomerResponse;
 import org.mapstruct.Builder;
 import org.mapstruct.Mapper;
-import org.mapstruct.Mapping;
 
 import java.util.List;
 
